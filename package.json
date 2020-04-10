@@ -1,0 +1,24 @@
+{
+  "name": "CI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ck18781145809/CI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-cli": "2.0.1",
+    "gulp": "4.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ck18781145809/CI/issues"
+  },
+  "homepage": "https://github.com/ck18781145809/CI#readme"
+}
